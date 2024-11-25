@@ -33,25 +33,4 @@ HTML Page: http://127.0.0.1:8000/html/
 Root URL: http://127.0.0.1:8000/
 
 
-Project Structure
-
-django_helloworld/
-├── helloworld/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│   ├── asgi.py
-├── myapp/
-│   ├── migrations/
-│   ├── static/
-│   │   ├── myapp/
-│   │   │   ├── styles.css
-│   ├── templates/
-│   │   ├── myapp/
-│   │   │   ├── hello.html
-│   ├── views.py
-│   ├── urls.py
-├── manage.py
-├── myenv/
 
